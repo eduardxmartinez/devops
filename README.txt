@@ -56,4 +56,3 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 Echo por Alvaro valenzuela.
 http://localhost:8080/amil@gmail.com
-
